@@ -1,0 +1,19 @@
+﻿  Files Creator.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\source\repos\Files Creator\ABODAstd.h(50,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Files%20Creator.cpp')
+  
+D:\source\repos\Files Creator\ABODAstd.h(62,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Files%20Creator.cpp')
+  
+D:\source\repos\Files Creator\ABODAstd.h(81,33): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Files%20Creator.cpp')
+  
+D:\source\repos\Files Creator\ABODAstd.h(105,33): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Files%20Creator.cpp')
+  
+D:\source\repos\Files Creator\ABODAstd.h(243,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Files%20Creator.cpp')
+  
+D:\source\repos\Files Creator\Files Creator.cpp(10,30): warning C4244: 'return': conversion from 'long double' to '__int64', possible loss of data
+  Files Creator.vcxproj -> D:\source\repos\Files Creator\x64\Debug\Files Creator.exe
