@@ -10,7 +10,7 @@ It enables users to generate large numbers of customized files instantly with us
 
 ## 💡 Motivation
 
-Manually creating multiple files is a repetitive and inefficient task in software development and academic workflows.
+Creating multiple files manually during development, testing, or academic work is repetitive and inefficient.
 
 **Files Witcher** was designed to automate this process by providing a fast, structured, and user-friendly CLI tool that improves productivity and reduces manual effort significantly.
 
